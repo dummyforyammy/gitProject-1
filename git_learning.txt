@@ -1,0 +1,4 @@
+17th Apr 2023 ---
+git rm -r --cached
+git reset .
+git checkout .
