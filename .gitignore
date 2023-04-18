@@ -1,0 +1,10 @@
+/gitignore.txt
+/index.html
+/style.css
+
+# Auto generated files
+auto-gen-files/*.txt
+
+# auto-gen-files/a.txt
+# auto-gen-files/b.txt
+# auto-gen-files/c.txt
