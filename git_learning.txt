@@ -1,4 +1,17 @@
+------- Git Basics
+
+--- terminal basics
+
+pwd -> check the present working directory
+cd -> to go to a specific directory
+
+
+
+
 17th Apr 2023 ---
 git rm -r --cached
 git reset .
 git checkout .
+
+
+
