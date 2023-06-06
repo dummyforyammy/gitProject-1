@@ -1,3 +1,2 @@
-const a = 210
-const myfunc = () => {};
+const b = 'hi there'
 
