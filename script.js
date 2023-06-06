@@ -1,1 +1,1 @@
-const a=7
+const b = 'hi there'
